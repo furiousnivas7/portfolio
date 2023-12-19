@@ -65,7 +65,7 @@ Array(400).fill().forEach(addStar);
 
 // Avatar
 
-const jeffTexture = new THREE.TextureLoader().load('jude.jpg');
+const jeffTexture = new THREE.TextureLoader().load('jude.JPG');
 
 const jeff = new THREE.Mesh(new THREE.BoxGeometry(3, 3, 3), new THREE.MeshBasicMaterial({ map: jeffTexture }));
 
