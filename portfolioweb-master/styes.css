@@ -35,7 +35,9 @@ h1, h2, h3, blockquote {
   font-weight: 700;
   font-style: normal;
 }
-
+h1{
+  font: size 250px;
+}
 canvas {
   position: fixed;
   top: 0;
