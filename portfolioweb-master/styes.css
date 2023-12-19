@@ -36,7 +36,8 @@ h1, h2, h3, blockquote {
   font-style: normal;
 }
 h1{
-  font: size 250px;
+  font-size: larger;
+  font-style: initial;
 }
 canvas {
   position: fixed;
